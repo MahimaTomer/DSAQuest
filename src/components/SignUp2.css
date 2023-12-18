@@ -1,0 +1,31 @@
+
+/* .image-container {
+  float: right;
+} */
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* .img-logo{
+    position:relative;
+    left:20%;
+    
+  } */
+  .main{
+    /* background-color: aqua; */
+    margin-top: 3rem;
+    padding: 5rem;
+  }
+  
+  .heading{
+    font-family: 'Montserrat-Black';
+    font-size: 2rem;
+    line-height: 0.7;
+    font-weight: bolder;
+    margin-top: 4rem;
+    /* margin-bottom: 20px; */
+    /* padding: 5px; */
+  }
+  

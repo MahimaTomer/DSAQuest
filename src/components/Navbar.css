@@ -1,0 +1,56 @@
+/* App.css or a dedicated CSS file */
+
+.navbar {
+    background-color: var(--second-bg-color);
+    border-radius: 0.5rem;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 3rem;
+  }
+  
+  nav h1{
+    padding: 0.5rem;
+    font: 3rem;
+    color: var(--text-color2);
+  }
+  
+  nav h1 span{
+    color: var(--main-color);
+  }
+  
+  .btn{
+    display: inline-block;
+    padding: 11px 26px;
+    background: transparent;
+    color: var(--main-color);
+    border: 2px solid var(--main-color);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--main-color);
+  }
+  
+  .nav-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  

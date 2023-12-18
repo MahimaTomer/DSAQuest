@@ -1,0 +1,20 @@
+:root {
+    --text-color: #000000;
+    --text-color2: #ffffff;
+    --main-color: #47a5ed;
+    --bg-color: #1b1f24;
+    --second-bg-color: #22282f;
+    --other-color: #c3cad5;
+    --h1-font: 3rem;
+    --h2-font: 1.4rem;
+    --p-font: 0.9rem;
+    --box-color: #2d343f;
+  }
+
+body {
+    color: var(--text-color);
+    background: var(--bg-color);
+  }
+/* .App{
+    background-color: #181252;
+} */

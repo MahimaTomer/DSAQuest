@@ -1,0 +1,30 @@
+/* 
+
+.img-logo{
+    position:relative;
+    left:20%;
+    
+  } */
+
+  .main{
+    /* background-color: aqua; */
+    margin-top: 3rem;
+    padding: 5rem;
+
+  }
+  
+  .heading1{
+    color: var(--main-color);
+    font-family: 'Montserrat-Bold';
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 5px;
+  }
+  .heading1 span{
+    color: var(--second-bg-color);
+  }
+  
+ 
